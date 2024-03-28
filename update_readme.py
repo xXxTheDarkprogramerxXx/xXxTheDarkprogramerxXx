@@ -3,14 +3,16 @@ import requests
 
 def get_latest_projects():
     print("Fetching the latest projects...")
-    url = "https://api.github.com/users/xXxTheDarkprogramerxXx/repos?sort=push&direction=desc"
+    url = "https://api.github.com/users/xXxTheDarkprogramerxXx/repos?sort=pushed&direction=desc"
     resp = requests.get(url)
     if resp.status_code != 200:
         print(f"Failed to fetch repositories: {resp.status_code}")
         return []
     projects = resp.json()
     lines = []
-    for project in projects[:5]: # Adjust the number of projects as needed
+    for project in projects[:5]:  # Adjust the number of projects as needed
+        if project['full_name'] == "xXxTheDarkprogramerxXx/xXxTheDarkprogramerxXx":
+            continue  # Skip the specific project
         line = f"- [{project['name']}]({project['html_url']}) - {project['description']}\n"
         print(f"Adding project: {line.strip()}")
         lines.append(line)
