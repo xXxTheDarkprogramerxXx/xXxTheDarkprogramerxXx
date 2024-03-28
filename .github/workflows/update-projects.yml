@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          repository: yourusername/yourusername
+          repository: xXxTheDarkprogramerxXx/xXxTheDarkprogramerxXx
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
