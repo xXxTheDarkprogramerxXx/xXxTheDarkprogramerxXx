@@ -3,8 +3,8 @@
 [![Youtube_Follow](https://img.shields.io/youtube/channel/subscribers/UCBdwOm4ThRAjO0enV45Yh0g?style=for-the-badge)](https://www.youtube.com/channel/UCBdwOm4ThRAjO0enV45Yh0g)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thedarkprogr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthedarkprogr&screen_name=thedarkprogr)
 
-
-- 🔭 I’m currently working on [PS4 Tools](https://github.com/xXxTheDarkprogramerxXx/PS4_Tools) & [PS4 Unjail](https://github.com/PSTools/ps4_unjail)
+- 🧠 I’m working on a Dynamic Tool to allow users to create CV's on the fly free of charge
+- 🔭 I’m working on [PS4 Tools](https://github.com/xXxTheDarkprogramerxXx/PS4_Tools) & [PS4 Unjail](https://github.com/PSTools/ps4_unjail)
 - 👯 I’m looking to collaborate on any projects that can help the scene
 - ⚡ Fun fact: I've been around since the PS3 Scene days and currently work on (PSP,PS3,PS4,PSVita and soon PS5 software and homebrew)
 - ✨ I also create projects outside of the Playsation scene
