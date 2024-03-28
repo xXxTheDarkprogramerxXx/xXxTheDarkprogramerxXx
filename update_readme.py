@@ -10,9 +10,9 @@ def get_latest_projects():
         return []
     projects = resp.json()
     lines = []
-    for project in projects[:5]:  # Adjust the number of projects as needed
-        if project['full_name'] == "xXxTheDarkprogramerxXx/xXxTheDarkprogramerxXx":
-            continue  # Skip the specific project
+    # Filter out the specific project before slicing the list
+    filtered_projects = [project for project in projects if project['full_name'] != "xXxTheDarkprogramerxXx/xXxTheDarkprogramerxXx"]
+    for project in filtered_projects[:5]:  # Now, take the top 5 after filtering
         line = f"- [{project['name']}]({project['html_url']}) - {project['description']}\n"
         print(f"Adding project: {line.strip()}")
         lines.append(line)
