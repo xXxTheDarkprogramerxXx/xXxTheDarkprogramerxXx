@@ -12,6 +12,11 @@
 
 
 ### Latest Projects
+- [Woo4All](https://github.com/xXxTheDarkprogramerxXx/Woo4All) - A Simple woocomerce product scraper for windows
+- [Elevator-App](https://github.com/xXxTheDarkprogramerxXx/Elevator-App) - Elevator Application
+- [syscon-guide](https://github.com/xXxTheDarkprogramerxXx/syscon-guide) - Guide to dumping the PS4 Syscon and flashing it onto a new RL78 chip for downgrading, loadbios repair and enabling service mode!
+- [jsonize](https://github.com/xXxTheDarkprogramerxXx/jsonize) - Convert HTML to JSON.
+- [psxdatacenter-api](https://github.com/xXxTheDarkprogramerxXx/psxdatacenter-api) - An Unofficial API for www.psxdatacenter.com
 
 ### Connect with me:
 
