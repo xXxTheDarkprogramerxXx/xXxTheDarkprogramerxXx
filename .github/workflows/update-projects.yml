@@ -8,15 +8,21 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        repository: xXxTheDarkprogramerxXx/xXxTheDarkprogramerxXx
-        token: ${{ secrets.GITHUB_TOKEN }} # Provided by GitHub
-        fetch-depth: 0
+      - uses: actions/checkout@v2
+        with:
+          repository: yourusername/yourusername
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
-    - name: Fetch latest projects and update README
-      run: |
-        # Your script to update README.md with your latest projects
-        python update_readme.py
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch latest projects and update README
+        run: python update_readme.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with latest projects" || echo "No changes to commit"
+          git push
