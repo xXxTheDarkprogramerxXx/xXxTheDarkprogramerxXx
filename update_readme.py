@@ -3,7 +3,7 @@ import requests
 
 def get_latest_projects():
     print("Fetching the latest projects...")
-    url = "https://api.github.com/users/xXxTheDarkprogramerxXx/repos?sort=created&direction=desc"
+    url = "https://api.github.com/users/xXxTheDarkprogramerxXx/repos?sort=push&direction=desc"
     resp = requests.get(url)
     if resp.status_code != 200:
         print(f"Failed to fetch repositories: {resp.status_code}")
