@@ -12,11 +12,11 @@
 
 
 ### Latest Projects
+- [AdrBubbleBooterCreator](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) - Create a PSPEMU Boot Bubble ( VPK )
+- [Byepervisor](https://github.com/xXxTheDarkprogramerxXx/Byepervisor) - A PS5 hypervisor exploit for 1.xx-2xx firmwares.
 - [BitskinsApiV1](https://github.com/xXxTheDarkprogramerxXx/BitskinsApiV1) - Bitskins.com C# .net API 
+- [PS5-PKGs](https://github.com/xXxTheDarkprogramerxXx/PS5-PKGs) - Official build tools for building PS5 pkg
 - [Ps2-Classics-emulators-for-Ps4](https://github.com/xXxTheDarkprogramerxXx/Ps2-Classics-emulators-for-Ps4) - Ps2 Classics emulators for Ps4, this will allow you to use many different versions of emulator, which could improve or decrease the compatibility
-- [Woo4All](https://github.com/xXxTheDarkprogramerxXx/Woo4All) - A Simple woocomerce product scraper for windows
-- [Elevator-App](https://github.com/xXxTheDarkprogramerxXx/Elevator-App) - Elevator Application
-- [syscon-guide](https://github.com/xXxTheDarkprogramerxXx/syscon-guide) - Guide to dumping the PS4 Syscon and flashing it onto a new RL78 chip for downgrading, loadbios repair and enabling service mode!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
