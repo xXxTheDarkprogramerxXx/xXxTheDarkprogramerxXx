@@ -12,11 +12,11 @@
 
 
 ### Latest Projects
+- [PS5_Tools](https://github.com/xXxTheDarkprogramerxXx/PS5_Tools) - Collection Of Open Source PS5 Tools all in one Library All Written in C#
+- [SteamBitBProtector-](https://github.com/xXxTheDarkprogramerxXx/SteamBitBProtector-) - Steam Browser In Browser Protector/Detector 
 - [PRXShot-MOD](https://github.com/xXxTheDarkprogramerxXx/PRXShot-MOD) - prxshot mod and prxshot mod config by LMAN
 - [AdrBubbleBooterCreator](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) - Create a PSPEMU Boot Bubble ( VPK )
 - [Byepervisor](https://github.com/xXxTheDarkprogramerxXx/Byepervisor) - A PS5 hypervisor exploit for 1.xx-2xx firmwares.
-- [BitskinsApiV1](https://github.com/xXxTheDarkprogramerxXx/BitskinsApiV1) - Bitskins.com C# .net API 
-- [PS5-PKGs](https://github.com/xXxTheDarkprogramerxXx/PS5-PKGs) - Official build tools for building PS5 pkg
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
