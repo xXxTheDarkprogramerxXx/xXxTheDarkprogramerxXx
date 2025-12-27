@@ -12,11 +12,11 @@
 
 
 ### Latest Projects
+- [PS3-Creator](https://github.com/xXxTheDarkprogramerxXx/PS3-Creator) - PS3 Creator (Edat Auto Creation Tool) This Tool Was Plain and simple create edat from c00 pkg
 - [PS5_Tools](https://github.com/xXxTheDarkprogramerxXx/PS5_Tools) - Collection Of Open Source PS5 Tools all in one Library All Written in C#
 - [SteamBitBProtector-](https://github.com/xXxTheDarkprogramerxXx/SteamBitBProtector-) - Steam Browser In Browser Protector/Detector 
 - [PRXShot-MOD](https://github.com/xXxTheDarkprogramerxXx/PRXShot-MOD) - prxshot mod and prxshot mod config by LMAN
 - [AdrBubbleBooterCreator](https://github.com/xXxTheDarkprogramerxXx/AdrBubbleBooterCreator) - Create a PSPEMU Boot Bubble ( VPK )
-- [Byepervisor](https://github.com/xXxTheDarkprogramerxXx/Byepervisor) - A PS5 hypervisor exploit for 1.xx-2xx firmwares.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
