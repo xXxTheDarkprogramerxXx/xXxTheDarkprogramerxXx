@@ -1,7 +1,7 @@
 ### Welcome to my Github Page
 
-[![Youtube_Follow](https://img.shields.io/youtube/channel/subscribers/UCBdwOm4ThRAjO0enV45Yh0g?style=for-the-badge)](https://www.youtube.com/channel/UCBdwOm4ThRAjO0enV45Yh0g)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thedarkprogr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthedarkprogr&screen_name=thedarkprogr)
+[![Youtube_Follow]([https://img.shields.io/youtube/channel/subscribers/UCBdwOm4ThRAjO0enV45Yh0g?style=for-the-badge](https://img.shields.io/youtube/channel/subscribers/UCBdwOm4ThRAjO0enV45Yh0g?style=for-the-badge&logo=youtube))](https://www.youtube.com/channel/UCBdwOm4ThRAjO0enV45Yh0g)
+[![Twitter Follow]([https://img.shields.io/twitter/follow/thedarkprogr?color=1DA1F2&logo=twitter&style=for-the-badge](https://img.shields.io/twitter/follow/thedarkprogr?style=for-the-badge&color=1DA1F2&logo=x&logoColor=white))](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthedarkprogr&screen_name=thedarkprogr)
 
 - 🧠 I’m working on a Dynamic Tool to allow users to create CV's on the fly free of charge
 - 🔭 I’m working on [PS4 Tools](https://github.com/xXxTheDarkprogramerxXx/PS4_Tools) & [PS4 Unjail](https://github.com/PSTools/ps4_unjail)
